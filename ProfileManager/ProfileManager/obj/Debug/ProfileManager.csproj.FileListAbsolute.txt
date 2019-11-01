@@ -1,0 +1,7 @@
+C:\Users\Hamza_PC\source\repos\ProfileManager\ProfileManager\bin\Debug\ProfileManager.exe.config
+C:\Users\Hamza_PC\source\repos\ProfileManager\ProfileManager\bin\Debug\ProfileManager.exe
+C:\Users\Hamza_PC\source\repos\ProfileManager\ProfileManager\bin\Debug\ProfileManager.pdb
+C:\Users\Hamza_PC\source\repos\ProfileManager\ProfileManager\obj\Debug\ProfileManager.csprojAssemblyReference.cache
+C:\Users\Hamza_PC\source\repos\ProfileManager\ProfileManager\obj\Debug\ProfileManager.csproj.CoreCompileInputs.cache
+C:\Users\Hamza_PC\source\repos\ProfileManager\ProfileManager\obj\Debug\ProfileManager.exe
+C:\Users\Hamza_PC\source\repos\ProfileManager\ProfileManager\obj\Debug\ProfileManager.pdb
